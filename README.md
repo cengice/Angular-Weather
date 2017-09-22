@@ -34,4 +34,4 @@ http://localhost:4200/
 
 License
 
-MIT © Cenguc E
+MIT © Cengic E
